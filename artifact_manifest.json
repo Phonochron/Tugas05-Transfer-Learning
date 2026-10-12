@@ -4,7 +4,7 @@
   "verification_notebook_executed": true,
   "files": {
     ".gitattributes": "7cc9bc11d6efae7cbb7177053ea09bcd01094256b17aeff23aa857066d40dae5",
-    ".gitignore": "e6b48bf017e8e85e915948b2f3e8d4608df81c58d8abb255bfa0879ba3d5aff7",
+    ".gitignore": "c52072469d0915278b82ec48e78d8ce28e28ef2aa69b277d4a7bf498e6b724df",
     "failure_analysis_reviewed.csv": "b75255d9f781ddb37b983ad60009e5844f8e7e7a903feb9b2020aa28332cddf8",
     "figures/confusion_matrix.png": "5a5f230bd31198dbcf6cd4d154e5570bc0b7e6f90f66a9e36686cb695a72abf5",
     "figures/failure_samples.png": "524e0cbe6336bb5cdff1c8d98f17659109c2aa5ff589594717d305818258d729",
@@ -34,11 +34,11 @@
     "raw_logs/protocol.json": "dc62498e835fa37cd5633b50a98766d0ba7b7060f64f322a4db395ce680eca76",
     "raw_logs/requirements.txt": "de23b25728de8e83d64a6a63128fad237c38711f72bb7fb684798e68cbc026bc",
     "raw_logs/split_manifest.csv": "ff30c1004d9a8ed98f3475110901a22129de36136138f7a76843bbc94829d04b",
-    "README.md": "df34f17eaab96bb0223af45e349edbac37981558724258f305bad52339383530",
-    "requirements-verification.txt": "c1ad3a6f6cc319a11dc757a3430a1da41ebfda38d9cc5e2098ff74fae4e1621a",
-    "requirements.txt": "9d4a23b1bee4eabb0bda2695ee5b85856e6fa84e3c57f9d708ce179aa4f51806",
-    "Tugas05_Transfer_Learning_Colab.ipynb": "ae84640007d8efb93b0aefb3c4e530f737654136e6c4a93cb60326ecc7887bbb",
-    "Verifikasi_Hasil.ipynb": "dd9ef095aca9af06bec08d6d8d44ed9c93f007d380562229607e33665c3d97fa",
+    "README.md": "61f84ab05a0b72b3d801297975baa37913ec8515810b05350cc79420d3382f34",
+    "requirements-verification.txt": "42239d932dd947a61dd77a549ffb92caf045be9e4eab30b86875703d5babf412",
+    "requirements.txt": "063408b164221f47e0f5f6dc04ba530ad3794426f647bf6e198e626b70046a77",
+    "Tugas05_Transfer_Learning_Colab.ipynb": "b2068b3f597c6f11ff2cf36be56043bd5ef0de4c035a59ac9a74c86903d84f30",
+    "Verifikasi_Hasil.ipynb": "433a4b567715234fc006debc7c8e57ded0cef5b20798efc09058d0e10e304333",
     "verify_artifacts.py": "b90cd6b064987de0552fba85701be6877d093ea163c6daff9352338de4335041"
   }
 }
