@@ -2,6 +2,9 @@
 
 **Andrew Wijaya | NIM 2802508363 | BINUS University**
 
+Repositori private: https://github.com/Phonochron/Tugas05-Transfer-Learning
+Pastikan penilai memperoleh akses repositori ketika menyerahkan tautan.
+
 Paket berisi laporan lima halaman, kode training, hasil eksperimen B1-B4,
 dan notebook pemeriksaan hasil yang sudah dieksekusi secara lokal.
 
@@ -60,3 +63,7 @@ Mahasiswa perlu memahami kode dan meninjau analisis secara mandiri sebelum pengu
 
 Materi slide telah diperiksa: augmentasi berada pada Slide 20-22; Slide 23 adalah
 pembuka Modern Architectures. Perbedaan dengan rujukan pertanyaan tugas dijelaskan dalam laporan.
+
+## Audit paket
+
+Jalankan `python verify_artifacts.py` untuk memeriksa hash artefak dan syntax notebook.
