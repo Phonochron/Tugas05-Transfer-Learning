@@ -67,3 +67,7 @@ pembuka Modern Architectures. Perbedaan dengan rujukan pertanyaan tugas dijelask
 ## Audit paket
 
 Jalankan `python verify_artifacts.py` untuk memeriksa hash artefak dan syntax notebook.
+
+## Revisi laporan
+
+Abstract dihapus. AI disclosure menjelaskan alat, lingkup bantuan, verifikasi berbantuan AI, dan tanggung jawab penulis tanpa klaim analisis sepenuhnya mandiri.
