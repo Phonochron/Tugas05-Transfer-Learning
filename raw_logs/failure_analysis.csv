@@ -1,0 +1,9 @@
+path,label,breed,predicted_label,confidence,predicted_breed,visual_evidence_manual,hypothesis_manual
+/content/pet_data/oxford-iiit-pet/images/american_bulldog_67.jpg,5,american_bulldog,9,0.7281887531280518,boxer,,
+/content/pet_data/oxford-iiit-pet/images/basset_hound_103.jpg,7,basset_hound,8,0.7595885992050171,beagle,,
+/content/pet_data/oxford-iiit-pet/images/american_pit_bull_terrier_17.jpg,6,american_pit_bull_terrier,9,0.8065197467803955,boxer,,
+/content/pet_data/oxford-iiit-pet/images/British_Shorthair_230.jpg,4,British_Shorthair,3,0.7483594417572021,Bombay,,
+/content/pet_data/oxford-iiit-pet/images/american_pit_bull_terrier_28.jpg,6,american_pit_bull_terrier,5,0.8294371366500854,american_bulldog,,
+/content/pet_data/oxford-iiit-pet/images/Abyssinian_221.jpg,0,Abyssinian,1,0.6886692643165588,Bengal,,
+/content/pet_data/oxford-iiit-pet/images/boxer_198.jpg,9,boxer,5,0.947323441505432,american_bulldog,,
+/content/pet_data/oxford-iiit-pet/images/Abyssinian_101.jpg,0,Abyssinian,1,0.939145028591156,Bengal,,

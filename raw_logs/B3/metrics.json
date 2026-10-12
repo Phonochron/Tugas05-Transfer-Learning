@@ -1,0 +1,23 @@
+{
+  "name": "B3",
+  "strategy": "finetune",
+  "augmentation": true,
+  "architecture": "resnet18",
+  "seed": 42,
+  "trainable_parameters": 8398858,
+  "total_parameters": 11181642,
+  "learning_rates": {
+    "last_block": 0.0001,
+    "head": 0.001
+  },
+  "best_epoch": 7,
+  "epochs_run": 12,
+  "stop_reason": "early_stopping",
+  "training_seconds": 2659.51307535,
+  "validation_loss": 0.18683215024997088,
+  "validation_accuracy": 0.9629629629629629,
+  "train_eval_accuracy": 0.9935064935064936,
+  "generalization_gap": 0.03054353054353065,
+  "test_accuracy": 0.9362416107382551,
+  "test_macro_f1": 0.9363067915567831
+}

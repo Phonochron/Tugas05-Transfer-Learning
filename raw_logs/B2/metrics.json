@@ -1,0 +1,22 @@
+{
+  "name": "B2",
+  "strategy": "feature",
+  "augmentation": true,
+  "architecture": "resnet18",
+  "seed": 42,
+  "trainable_parameters": 5130,
+  "total_parameters": 11181642,
+  "learning_rates": {
+    "head": 0.001
+  },
+  "best_epoch": 13,
+  "epochs_run": 18,
+  "stop_reason": "early_stopping",
+  "training_seconds": 3003.078963008,
+  "validation_loss": 0.22346612497511936,
+  "validation_accuracy": 0.9292929292929293,
+  "train_eval_accuracy": 0.9588744588744589,
+  "generalization_gap": 0.029581529581529598,
+  "test_accuracy": 0.912751677852349,
+  "test_macro_f1": 0.9132051730492622
+}

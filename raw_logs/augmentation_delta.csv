@@ -1,0 +1,5 @@
+,aug_minus_no_aug
+validation_accuracy,0.013468013468013407
+train_eval_accuracy,-0.00649350649350644
+generalization_gap,-0.019961519961519847
+test_macro_f1,0.0032205534612809172

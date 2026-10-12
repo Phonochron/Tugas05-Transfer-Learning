@@ -1,0 +1,23 @@
+{
+  "name": "B4_no_aug",
+  "strategy": "finetune",
+  "augmentation": false,
+  "architecture": "resnet18",
+  "seed": 42,
+  "trainable_parameters": 8398858,
+  "total_parameters": 11181642,
+  "learning_rates": {
+    "last_block": 0.0001,
+    "head": 0.001
+  },
+  "best_epoch": 4,
+  "epochs_run": 9,
+  "stop_reason": "early_stopping",
+  "training_seconds": 1965.7272817119992,
+  "validation_loss": 0.1841148854506136,
+  "validation_accuracy": 0.9494949494949495,
+  "train_eval_accuracy": 1.0,
+  "generalization_gap": 0.0505050505050505,
+  "test_accuracy": 0.9328859060402684,
+  "test_macro_f1": 0.9330862380955022
+}

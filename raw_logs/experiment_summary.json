@@ -1,0 +1,92 @@
+[
+  {
+    "name": "B1",
+    "strategy": "scratch",
+    "augmentation": true,
+    "architecture": "resnet18",
+    "seed": 42,
+    "trainable_parameters": 11181642,
+    "total_parameters": 11181642,
+    "learning_rates": {
+      "all": 0.001
+    },
+    "best_epoch": 4,
+    "epochs_run": 9,
+    "stop_reason": "early_stopping",
+    "training_seconds": 3794.9335274510004,
+    "validation_loss": 1.6998540556390678,
+    "validation_accuracy": 0.40404040404040403,
+    "train_eval_accuracy": 0.44805194805194803,
+    "generalization_gap": 0.044011544011544,
+    "test_accuracy": 0.3825503355704698,
+    "test_macro_f1": 0.35497307446902904
+  },
+  {
+    "name": "B2",
+    "strategy": "feature",
+    "augmentation": true,
+    "architecture": "resnet18",
+    "seed": 42,
+    "trainable_parameters": 5130,
+    "total_parameters": 11181642,
+    "learning_rates": {
+      "head": 0.001
+    },
+    "best_epoch": 13,
+    "epochs_run": 18,
+    "stop_reason": "early_stopping",
+    "training_seconds": 3003.078963008,
+    "validation_loss": 0.22346612497511936,
+    "validation_accuracy": 0.9292929292929293,
+    "train_eval_accuracy": 0.9588744588744589,
+    "generalization_gap": 0.029581529581529598,
+    "test_accuracy": 0.912751677852349,
+    "test_macro_f1": 0.9132051730492622
+  },
+  {
+    "name": "B3",
+    "strategy": "finetune",
+    "augmentation": true,
+    "architecture": "resnet18",
+    "seed": 42,
+    "trainable_parameters": 8398858,
+    "total_parameters": 11181642,
+    "learning_rates": {
+      "last_block": 0.0001,
+      "head": 0.001
+    },
+    "best_epoch": 7,
+    "epochs_run": 12,
+    "stop_reason": "early_stopping",
+    "training_seconds": 2659.51307535,
+    "validation_loss": 0.18683215024997088,
+    "validation_accuracy": 0.9629629629629629,
+    "train_eval_accuracy": 0.9935064935064936,
+    "generalization_gap": 0.03054353054353065,
+    "test_accuracy": 0.9362416107382551,
+    "test_macro_f1": 0.9363067915567831
+  },
+  {
+    "name": "B4_no_aug",
+    "strategy": "finetune",
+    "augmentation": false,
+    "architecture": "resnet18",
+    "seed": 42,
+    "trainable_parameters": 8398858,
+    "total_parameters": 11181642,
+    "learning_rates": {
+      "last_block": 0.0001,
+      "head": 0.001
+    },
+    "best_epoch": 4,
+    "epochs_run": 9,
+    "stop_reason": "early_stopping",
+    "training_seconds": 1965.7272817119992,
+    "validation_loss": 0.1841148854506136,
+    "validation_accuracy": 0.9494949494949495,
+    "train_eval_accuracy": 1.0,
+    "generalization_gap": 0.0505050505050505,
+    "test_accuracy": 0.9328859060402684,
+    "test_macro_f1": 0.9330862380955022
+  }
+]

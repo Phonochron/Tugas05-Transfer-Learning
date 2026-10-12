@@ -1,0 +1,75 @@
+{
+  "Abyssinian": {
+    "precision": 0.96,
+    "recall": 0.8,
+    "f1-score": 0.8727272727272727,
+    "support": 30.0
+  },
+  "Bengal": {
+    "precision": 0.8285714285714286,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.8923076923076924,
+    "support": 30.0
+  },
+  "Birman": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30.0
+  },
+  "Bombay": {
+    "precision": 0.9655172413793104,
+    "recall": 1.0,
+    "f1-score": 0.9824561403508771,
+    "support": 28.0
+  },
+  "British_Shorthair": {
+    "precision": 1.0,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9830508474576272,
+    "support": 30.0
+  },
+  "american_bulldog": {
+    "precision": 0.9615384615384616,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8928571428571429,
+    "support": 30.0
+  },
+  "american_pit_bull_terrier": {
+    "precision": 0.9032258064516129,
+    "recall": 0.9333333333333333,
+    "f1-score": 0.9180327868852459,
+    "support": 30.0
+  },
+  "basset_hound": {
+    "precision": 1.0,
+    "recall": 0.9333333333333333,
+    "f1-score": 0.9655172413793104,
+    "support": 30.0
+  },
+  "beagle": {
+    "precision": 0.8787878787878788,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9206349206349206,
+    "support": 30.0
+  },
+  "boxer": {
+    "precision": 0.90625,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9354838709677419,
+    "support": 30.0
+  },
+  "accuracy": 0.9362416107382551,
+  "macro avg": {
+    "precision": 0.9403890816728693,
+    "recall": 0.9366666666666668,
+    "f1-score": 0.9363067915567831,
+    "support": 298.0
+  },
+  "weighted avg": {
+    "precision": 0.9402204363057118,
+    "recall": 0.9362416107382551,
+    "f1-score": 0.9359970643836686,
+    "support": 298.0
+  }
+}
