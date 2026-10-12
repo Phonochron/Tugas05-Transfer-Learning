@@ -1,6 +1,6 @@
 {
   "source_archive": "tugas05_experiment_outputs-1.zip",
-  "training_notebook_outputs_available": false,
+  "training_notebook_outputs_available": true,
   "verification_notebook_executed": true,
   "files": {
     ".gitattributes": "7cc9bc11d6efae7cbb7177053ea09bcd01094256b17aeff23aa857066d40dae5",
@@ -34,11 +34,13 @@
     "raw_logs/protocol.json": "dc62498e835fa37cd5633b50a98766d0ba7b7060f64f322a4db395ce680eca76",
     "raw_logs/requirements.txt": "de23b25728de8e83d64a6a63128fad237c38711f72bb7fb684798e68cbc026bc",
     "raw_logs/split_manifest.csv": "ff30c1004d9a8ed98f3475110901a22129de36136138f7a76843bbc94829d04b",
-    "README.md": "61f84ab05a0b72b3d801297975baa37913ec8515810b05350cc79420d3382f34",
+    "README.md": "a2850f6adc0cc9184e8e7944e3a5ba60c3c26ce42c2ce7e5932b5d8aa20ae45b",
     "requirements-verification.txt": "42239d932dd947a61dd77a549ffb92caf045be9e4eab30b86875703d5babf412",
     "requirements.txt": "063408b164221f47e0f5f6dc04ba530ad3794426f647bf6e198e626b70046a77",
-    "Tugas05_Transfer_Learning_Colab.ipynb": "b2068b3f597c6f11ff2cf36be56043bd5ef0de4c035a59ac9a74c86903d84f30",
-    "Verifikasi_Hasil.ipynb": "433a4b567715234fc006debc7c8e57ded0cef5b20798efc09058d0e10e304333",
+    "Tugas05_Transfer_Learning_Colab.ipynb": "493936d48b297323c4b29d398e34b8a9db46663d8321b856002e2b1ddf98045b",
+    "Verifikasi_Hasil.ipynb": "1c3765d351645726dfddf7a045556bc348c4808cc8b1c627b0b78c04e90a7052",
     "verify_artifacts.py": "b90cd6b064987de0552fba85701be6877d093ea163c6daff9352338de4335041"
-  }
+  },
+  "training_notebook_original_source": "Tugas05_Transfer_Learning_Colab(1).ipynb",
+  "training_notebook_original_sha256": "c3bcaf6d6bf41059d38cf21591a069821c121a17b9f16855f569163f590e93dd"
 }

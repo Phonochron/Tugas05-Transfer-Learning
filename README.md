@@ -11,7 +11,7 @@ dan notebook pemeriksaan hasil yang sudah dieksekusi secara lokal.
 ## Isi paket
 
 - `Laporan_Tugas05_2802508363_AndrewWijaya.pdf`: Bagian A dan C, grafik, delapan hipotesis, referensi dan AI disclosure.
-- `Tugas05_Transfer_Learning_Colab.ipynb`: implementasi training untuk Colab.
+- `Tugas05_Transfer_Learning_Colab.ipynb`: implementasi training Colab beserta output asli dari notebook yang dikirim mahasiswa.
 - `Verifikasi_Hasil.ipynb`: verifikasi CSV aktual; memiliki output eksekusi lokal.
 - `raw_logs/`: history, prediksi, metrik, manifest, protocol dan environment asli.
 - `failure_analysis_reviewed.csv`: delapan hipotesis; CSV mentah asli tetap dipertahankan.
@@ -43,11 +43,11 @@ untuk menghitung ulang accuracy/F1 dan memeriksa history, split, serta delta aug
 
 ## Status bukti notebook training
 
-File training yang tersedia belum menyimpan output sel. `Verifikasi_Hasil.ipynb`
-adalah pemeriksaan artefak, bukan pengganti notebook training yang telah dieksekusi.
-Untuk memenuhi ketentuan tersebut, download notebook dari sesi Colab yang selesai:
-File > Download > Download .ipynb, lalu ganti file training dalam paket ini.
-Jangan mengisi execution count atau output training secara manual.
+Notebook training dengan output asli telah tersedia dan dimasukkan ke paket.
+Output mencakup environment, split, konfigurasi B1-B4, tabel metrik test, kurva,
+confusion matrix dan delapan sampel kesalahan. Angkanya cocok dengan raw_logs/.
+Execution count pada ekspor Colab kosong; nilai tersebut dipertahankan, tidak direkayasa.
+Notebook verifikasi merupakan audit artefak tambahan, bukan pengganti training.
 
 ## Integritas dan referensi
 
